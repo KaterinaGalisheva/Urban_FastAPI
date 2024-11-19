@@ -14,21 +14,6 @@
 # распаковка файла с библиотеками
 # pip install -r requirements.txt
 
-# установить Django с помощью pip: 
-# pip install django
-
-# Создание первого проекта в конце - это имя проекта
-# django-admin startproject mysite
-
-# создать таблицы в базе данных для всех приложений из списка INSTALLED_APPS в папке mysite
-# cd mysite
-# python manage.py migrate
-
-# Запуск сервера для разработки
-# python manage.py runserver
-
-# Создание приложения внутри проекта, в конце - имя приложения на сервере
-# python manage.py startapp app
 
 
 
